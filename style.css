@@ -11,3 +11,10 @@
     border: 5px solid black;
 }
 
+.box one{
+    width: 100vw
+    height: 30vh;
+    background-color: greenyellow;
+    display: block;
+    
+}
